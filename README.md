@@ -10,8 +10,11 @@ home.lolgorithm/ | Handshake root-level domains!
         }
 
         canvas {
-            display: block;
-            margin: 0 auto
+              display: block;
+              margin: 0 auto;
+              position: absolute;
+              top: 0;
+              bottom: 0;
         }
     </style>
 </head>
