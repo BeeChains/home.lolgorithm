@@ -11,8 +11,7 @@ home.lolgorithm/ | Handshake root-level domains!
 
         canvas {
             display: block;
-            margin: 0 auto;
-            z-index: -1;
+            margin: 0 auto
         }
     </style>
 </head>
