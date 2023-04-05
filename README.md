@@ -11,14 +11,14 @@ home.lolgorithm/ | Handshake root-level domains!
 
         canvas {
             display: block;
-            position: fixed;
+            position: auto;
             top: 0;
             left: 0;
             z-index: -1;
         }
     </style>
 </head>
-Home of uncensorednames/ , Handshake root-level domain!
+Home of lolgorithm/ , Handshake root-level domain!
 <body>
 <canvas id="roots"></canvas>
 
