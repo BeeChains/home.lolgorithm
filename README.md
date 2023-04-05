@@ -29,7 +29,7 @@ Home of lolgorithm/ , Handshake root-level domain!
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 
-    const maxDepth = 9;
+    const maxDepth = 11;
     const branchesPerNode = 3;
     const branchAngle = Math.PI / 6;
     const initialLength = 177;
