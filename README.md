@@ -79,7 +79,7 @@ Home of lolgorithm/ , Handshake root-level domain!
 <p>See post about these rainbow domain name roots at <a href="https://innerinetcompany.com/2023/03/26/text-to-code-cyber-matrix-roots/">innerinetcompany.com/</a></p>
 </body>
 
-    <li><a href="http://reg.uncensorednames.hns.to/">reg.uncensorednames/</a></li>
+<li><a href="http://reg.uncensorednames.hns.to/">reg.uncensorednames/</a></li>
 <br>
-    <li><a href="https://reg.uncensorednames.com/">reg.uncensorednames.com/</a></li>
+<li><a href="https://reg.uncensorednames.com/">reg.uncensorednames.com/</a></li>
 </html>
